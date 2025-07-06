@@ -4,7 +4,7 @@
 Hi, I'm Sharawan 👋
 I’m an Application Support Specialist, Data Analyst, and IT Support based in Australia, with hands-on experience across technical support, QA, business analysis, and data-driven decision-making.
 
--💻 IT Support & Customer Service – Delivered Tier 1–3 support across global teams, resolving user issues, configuring systems, and managing team workflows (Freshdesk, Zendesk, Office 365)
+-💻 **IT Support & Customer Service** – Delivered Tier 1–3 support across global teams, resolving user issues, configuring systems, and managing team workflows (Freshdesk, Zendesk, Office 365)
 
 -🧩 IT Support (Team Lead) – Led application deployments, SOP creation, and onboarding new clients
 
