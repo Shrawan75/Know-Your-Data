@@ -38,3 +38,8 @@ In Progress: Version 2.0
 
 
 🔗 Connect with me on LinkedIn
+
+💻 IT Support & Customer Service – Delivered Tier 1–3 support across global teams, resolving user issues, configuring systems, and managing team workflows (Freshdesk, Zendesk, Office 365)
+🧩 IT Support (Team Lead) – Led application deployments, SOP creation, and team KPIs while mentoring junior support staff
+🧪 Software QA & Business Analyst (BA/QA) – Performed manual and automated testing (Selenium, Postman), wrote user stories, managed UAT/ Production, and collaborated in Agile sprints
+💡 Data Analytics – Built reports and insights using Python (Pandas, Matplotlib), SQL,AWS Lambda, API Gateway, Power BI, and Excel to support business goals and optimize service delivery
