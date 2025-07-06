@@ -37,9 +37,4 @@ In Progress: Version 2.0
 -CI/CD pipelines for data workflows (version control & automated tests)
 
 
-🔗 Connect with me on LinkedIn
-
-💻 IT Support & Customer Service – Delivered Tier 1–3 support across global teams, resolving user issues, configuring systems, and managing team workflows (Freshdesk, Zendesk, Office 365)
-🧩 IT Support (Team Lead) – Led application deployments, SOP creation, and team KPIs while mentoring junior support staff
-🧪 Software QA & Business Analyst (BA/QA) – Performed manual and automated testing (Selenium, Postman), wrote user stories, managed UAT/ Production, and collaborated in Agile sprints
-💡 Data Analytics – Built reports and insights using Python (Pandas, Matplotlib), SQL,AWS Lambda, API Gateway, Power BI, and Excel to support business goals and optimize service delivery
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sharawan-thapa-6aa108123)
