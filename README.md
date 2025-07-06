@@ -27,9 +27,13 @@ AWS hosted website Input Form → RDS → MySQL Workbench → Glue → S3 Data L
 
 In Progress: Version 2.0
 -Integrate external Azure Data Pipeline with Data Lake and ML on S3-based data 
+
 -Implement Predictive Modelling via Databricks + Power BI Python/R scripting
+
 -Star/ Snowflake Schema Modelling
+
 -Real-time streaming pipelines (e.g., Kinesis/Event Hubs → Data Lake)
+
 -CI/CD pipelines for data workflows (version control & automated tests)
 
 
