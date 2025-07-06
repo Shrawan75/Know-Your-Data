@@ -5,9 +5,13 @@ Hi, I'm Sharawan 👋
 I’m an Application Support Specialist, Data Analyst, and IT Support based in Australia, with hands-on experience across technical support, QA, business analysis, and data-driven decision-making.
 
 -💻 IT Support & Customer Service – Delivered Tier 1–3 support across global teams, resolving user issues, configuring systems, and managing team workflows (Freshdesk, Zendesk, Office 365)
+
 -🧩 IT Support (Team Lead) – Led application deployments, SOP creation, and onboarding new clients
+
 -🧪 Software QA & Business Analyst (BA/QA) – Performed manual and automated testing (Selenium, Postman), wrote user stories, managed UAT/ Production, and collaborated in Agile sprints
+
 -💡 Data Analytics – Built reports and insights using Python, SQL, AWS Lambda, API Gateway, Data Lake, Power BI, Power Automate and Excel to support business goals and optimize service delivery
+
 -🚀 Current Project: Retail Performance Sample PowerBI Dashboard, SQL insights, Automation Tools, AWS/Azure Data Lake pipeline
 
 This Includes: Version - 1.0
