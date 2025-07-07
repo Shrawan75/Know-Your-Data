@@ -9,7 +9,7 @@ I’m an Application Support Specialist, Data Analyst, and IT Support based in A
 
 -🧩 **IT Support (Team Lead)** – Led application deployments, SOP creation, and onboarding new clients
 
--🧪 **Software QA & Business Analyst (BA/QA)** – Performed manual and automated testing (Selenium, Postman), wrote user stories, managed UAT/ Production, and collaborated in Agile sprints
+-🧪 **Software QA & Business Analyst (BA/QA)** – Performed manual and automated testing (Selenium, Postman), wrote user stories, Data visualisations using SQL / PowerBI, managed UAT/ Production, and collaborated in Agile sprints
 
 -💡 **Data Analytics** – Built reports and insights using Python, SQL, AWS Lambda, API Gateway, Data Lake, Power BI, Power Automate and Excel to support business goals and optimize service delivery
 
