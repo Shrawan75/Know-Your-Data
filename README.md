@@ -22,12 +22,11 @@ I’m an Application Support Specialist, Data Analyst, and IT Support based in A
 -Collection of retail data from three sources in AWS Data Lake i.e. [ AWS RDS, Azure services and Manual data ingestion through CSV files ] and utilise that data for visualisations and business insights.
 
 -Technologies involved:
-AWS hosted website Input Form (AWS Route 53) → RDS → MySQL Workbench → Glue → S3 Data Lake (AWS RDS + CSV + Azure Service) → Athena → ODBC → Power BI → Power BI Service Schedule → Power Automate
+AWS hosted website Input Form (AWS Route 53) → RDS → MySQL Workbench → Glue → S3 Data Lake (AWS RDS + CSV + Azure Databricks) → Athena → ODBC → Power BI → Power BI Service Schedule → Power Automate
 
 -📊 PowerBI Dashboard & Process Automation – Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs) relevant to retail services and automate those insights through Power Automate.
 
 # In Progress: Version 2.0
--Integrate external Azure Data Pipeline with Data Lake and ML on S3-based data 
 
 -Implement Predictive Modelling via Databricks + Power BI Python/R scripting
 
