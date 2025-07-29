@@ -28,7 +28,7 @@ AWS hosted website Input Form (AWS Route 53) → RDS → MySQL Workbench → Glu
 
 # In Progress: Version 2.0
 
--Implement Predictive Modelling via Databricks + Power BI Python/R scripting
+-Implement Predictive Modelling
 
 -Star/ Snowflake Schema Modelling
 
