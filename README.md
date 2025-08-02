@@ -11,13 +11,13 @@ I’m an Application Support Specialist, Data Analyst, and IT Support based in A
 
 -🧪 **Software QA & Business Analyst (BA/QA)** – Performed manual and automated testing (Selenium, Postman), wrote user stories, Data visualisations using SQL / PowerBI, managed UAT/ Production, and collaborated in Agile sprints
 
--💡 **Data Analytics** – Built reports and insights using Python, SQL, AWS Lambda, API Gateway, AWS Glue, AWS AThena, Data Lake, Power BI, Power Automate and Excel to support business goals and optimize service delivery
+-💡 **Data Analytics** – Built reports and insights using Python, SQL, AWS Lambda, API Gateway, AWS Glue, AWS AThena, Azure Databricks, AWS-Azure S3 Data Lake, Power BI, Power Automate and Excel to support business goals and optimize service delivery
 
 -🚀 **Current Project**: Retail Performance Sample PowerBI Dashboard, SQL insights, Automation Tools, AWS/Azure Data Lake pipeline
 
 # This Includes: Version - 1.0
 
--🧠 End-to-End Unified Data Analytics Pipeline covers the entire process from data collection to reporting, including data ingestion, storage, transformation, querying, automated dashboard refresh and final business insights to the stakeholders.
+-🧠 AWS-Azure Unified Data Analytics Pipeline covers the entire process from data collection to reporting, including data ingestion, storage, transformation, querying, automated dashboard refresh and final business insights to the stakeholders.
 
 -Collection of retail data from three sources in AWS Data Lake i.e. [ AWS RDS, Azure Databricks and Manual data ingestion through CSV files ] and utilise that data for visualisations and business insights.
 
