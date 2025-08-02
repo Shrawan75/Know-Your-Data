@@ -19,9 +19,9 @@ I’m an Application Support Specialist, Data Analyst, and IT Support based in A
 
 -🧠 AWS-Azure Unified Data Analytics Pipeline covers the entire process from data collection to reporting, including data ingestion, storage, transformation, querying, automated dashboard refresh and final business insights to the stakeholders.
 
--Collection of retail data from three sources in AWS Data Lake i.e. [ AWS RDS, Azure Databricks and Manual data ingestion through CSV files ] and utilise that data for visualisations and business insights.
+-🔗 Collection of retail data from three sources in AWS Data Lake i.e. [ AWS RDS, Azure Databricks and Manual data ingestion through CSV files ] and utilise that data for visualisations and business insights.
 
--Technologies involved:
+- 🛠 Technologies involved:
 AWS hosted website Input Form (AWS Route 53) → AWS RDS → MySQL Workbench → AWS Glue → AWS S3 Data Lake (AWS RDS + CSV + Azure Databricks) → AWS Athena → ODBC Connector→ Power BI → Power BI Service Schedule → Power Automate
 
 -📊 PowerBI Dashboard & Process Automation – Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs), DAX, Implement Python Predictive Modelling in PowerBI relevant to retail services and automate those insights through Power Automate.
