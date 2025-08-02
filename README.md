@@ -24,11 +24,9 @@ I’m an Application Support Specialist, Data Analyst, and IT Support based in A
 -Technologies involved:
 AWS hosted website Input Form (AWS Route 53) → AWS RDS → MySQL Workbench → AWS Glue → AWS S3 Data Lake (AWS RDS + CSV + Azure Databricks) → AWS Athena → ODBC Connector→ Power BI → Power BI Service Schedule → Power Automate
 
--📊 PowerBI Dashboard & Process Automation – Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs) relevant to retail services and automate those insights through Power Automate.
+-📊 PowerBI Dashboard & Process Automation – Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs), DAX, Implement Python Predictive Modelling in PowerBI relevant to retail services and automate those insights through Power Automate.
 
 # In Progress: Version 2.0
-
--Implement Predictive Modelling
 
 -Star/ Snowflake Schema Modelling
 
